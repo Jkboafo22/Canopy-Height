@@ -1,6 +1,6 @@
 # $${\color{lightgreen}CANOPY \space HEIGHT\space OF\space GHANA}$$
 
-This repository features an advanced visualization of the forest canopy height across Ghana, created using high-resolution satellite imagery and Google Earth Engine. The project aims to provide valuable insights for forest management and conservation efforts. 🌲📏
+This repository features an advanced visualization of the forest canopy height across Ghana, created using high-resolution satellite imagery and Google Earth Engine. The project aims to provide valuable insights for forest management and conservation efforts.🌲📏
 
 
 🔗 Key Features:
